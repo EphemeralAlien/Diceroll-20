@@ -1,3 +1,5 @@
+/* 图片素材来自https://www.figma.com/design/gqYMLyd8mafM98BwGMV3I1/20-Sided-Dice--Community-?node-id=17-57&t=SYX2ugBkgNYS40qd-1 */
+
 spinning:
 1. 
   <svg width="508" height="695" viewBox="0 0 508 695" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1083,3 +1085,4 @@ still
 </filter>
 </defs>
 </svg>
+
